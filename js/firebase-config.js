@@ -1,4 +1,4 @@
-// Firebase Configuration
+// Firebase Configuration!
 // Project: monitoring-iot-29ac6
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
