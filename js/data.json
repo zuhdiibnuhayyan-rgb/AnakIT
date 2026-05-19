@@ -1,0 +1,11 @@
+{
+  "sensor": {
+    "suhu": 27.4,
+    "kelembapan": 68,
+    "tekanan": 1012,
+    "cahaya": 540,
+    "history": [
+      { "waktu": "08:00", "sensor": "DHT22", "nilai": "27.4°C", "status": "OK" }
+    ]
+  }
+}
